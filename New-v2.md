@@ -1,10 +1,10 @@
 {
-"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
-"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
-"Link": "tg://join?invite=BU35VPpOA_llMDhk",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "کانال پروکسی فوق‌العاده ما افتتاح شد 💜",
+"Description": "- با کانال Ultra Proxy میتونی به پرسرعت‌ترین پروکسی‌ها دسترسی داشته باشی ، اگه میخوای از شر فیلترینگ راحت بشی و از ما حمایت کنی حتما عضو کانال ما بشو 😎👇🏻",
+"Link": "tg://join?invite=S94HwJWwBuU1ZmI8",
+"ColorWave": "#FFEA00",
+"Color": "#FFEA00",
+"ColorWaveTwo": "#FFFF00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,8 +15,8 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01828777263100",
-"ShowTime": "2",
+"MessageID": "00199946000135",
+"ShowTime": "3",
 "Button": " عضویت اجباری ",
 "ButtonCancell": "  ",
 "Closure": "true",
